@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Henny+Penny&family=Metal+Mania&display=swap');
+
+
+
+body {
+    background-image: url(img/fundo-abstrato-bege-material-grunge-marrom-papel-velho_213524-129.avif);
+    background-size: cover; /* Faz a imagem cobrir toda a tela */
+    background-repeat: no-repeat; /* Impede que a imagem se repita */
+    background-position: center; /* Centraliza a imagem */
+    height: 100vh; /* Define a altura do body como 100% da altura da janela */
+    margin: 0; /* Remove margens padrão do body */
+}
+body{
+    text-align: center;
+}
+.pt1{
+    text-align: center;
+    display: flex;
+    gap: 50px;
+    padding: 10px;
+    margin-left: 23%;
+   }
+h1{
+    font-size: 100px;
+    font-family: "Metal Mania";
+    margin-bottom: 10px;
+}
+h2{
+    font-size: 50px;
+    font-family: "Metal Mania";
+} 
+h3{
+    font-size: 30px;
+    font-family: "Henny Penny", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+   text-align: center;
+} 
+.grif{
+  margin-top: 30px;
+}
+.lufa{
+    margin-top: 28px;
+}
+.corv{
+    margin-top: 10px;
+}
+.sons{
+    margin-top: 21px;
+}
+.pa{
+    font-size: 25px;
+}
